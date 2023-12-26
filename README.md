@@ -31,5 +31,4 @@ In the Jupyter Notebook environment, write the code needed to perform the follow
 <br>
 Link: https://forms.gle/soqdkqNE61gvQbSX7   <br>
 
-<p style={color:"red"}>Submission Date: 07-Jan-2024</p>
-
+<p style="color:red">Submission Date: 07-Jan-2024</p>
