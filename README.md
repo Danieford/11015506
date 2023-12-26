@@ -28,7 +28,8 @@ In the Jupyter Notebook environment, write the code needed to perform the follow
 1.	Create a local Git repository and commit your work to the repository.
 2.	Create a remote GitHub repository and commit your work to the remote repository. 
 3.	Copy the link of your remote GitHub repository and include it in the appropriate section in the Google form using the link below:
-<br>
+
 Link: https://forms.gle/soqdkqNE61gvQbSX7   <br>
 
 <p style="color:red">Submission Date: 07-Jan-2024</p>
+<p style="color:red;">A red paragraph.</p>
